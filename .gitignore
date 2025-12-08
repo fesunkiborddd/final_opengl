@@ -1,0 +1,44 @@
+# Visual Studio
+.vs/
+*.VC.db
+*.VC.VC.opendb
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build folders
+build/
+bin/
+obj/
+Debug/
+Release/
+x64/Debug/
+x64/Release/
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+
+# Generated executables
+*.exe
+*.dll
+*.lib
+*.o
+*.obj
+*.pdb
+
+# GitHub Actions
+.github/workflows/*
+
+x64/
+
+packages/
